@@ -51,7 +51,7 @@
     </repository>
     <snapshotRepository>
       <id>snap</id>
-      <url>http://3.109.5.129:8081/repository/snap/</url>
+      <url>http://3.109.5.129:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
