@@ -7,7 +7,7 @@
 
   <groupId>com.web.cal</groupId>
   <artifactId>webapp</artifactId>
-  <version>0.2-SNAPSHOT</version> <!-- Use -SNAPSHOT if you're deploying to snapshot repo -->
+  <version>0.1-SNAPSHOT</version> <!-- Use -SNAPSHOT if you're deploying to snapshot repo -->
   <packaging>war</packaging>
 
   <name>WebAppCal Maven Webapp</name>
